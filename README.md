@@ -4,14 +4,6 @@ A dynamic review section that allows users to view and navigate through a collec
 
 ![Review Section Preview](https://github.com/somayehva/Review-Display/blob/main/Reviews.png)
 
-## Table of Contents
-- [Demo](#demo)
-- [Technologies Used](#technologies-used)
-- [Project Specifications](#project-specifications)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Demo
 
 You can try the live demo [here](link-to-your-live-demo).
