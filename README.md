@@ -6,7 +6,7 @@ A dynamic review section that allows users to view and navigate through a collec
 
 ## Demo
 
-You can try the live demo [here](link-to-your-live-demo).
+You can try the live demo [here](http://somayeh.me/reviews/).
 
 ## Technologies Used
 
@@ -24,4 +24,4 @@ You can try the live demo [here](link-to-your-live-demo).
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
